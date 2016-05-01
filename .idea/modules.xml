@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/JDE.iml" filepath="$PROJECT_DIR$/.idea/modules/JDE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/JDE_main.iml" filepath="$PROJECT_DIR$/.idea/modules/JDE_main.iml" group="JDE" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/JDE_test.iml" filepath="$PROJECT_DIR$/.idea/modules/JDE_test.iml" group="JDE" />
+    </modules>
+  </component>
+</project>
